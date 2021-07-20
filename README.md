@@ -4,7 +4,7 @@ Olá 👋, seja bem-vindo(a)!
 
 ## Eu sou Caroline!
 
-:computer: Estou cursando Análise e Desenvolvimento de Sistemas!
+:computer: Estou cursando Análise e Desenvolvimento de Sistemas, 3º período!
 
 :house_with_garden: Sou brasileira.
 
