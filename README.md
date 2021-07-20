@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there 
 
-<!--
-**carollinebarros/Carollinebarros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+----------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+Olá 👋, seja bem-vindo(a)!  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Eu sou Caroline!
+
+:computer: Estou cursando Análise e Desenvolvimento de Sistemas!
+
+:house_with_garden: Sou brasileira.
+
+:books: No momento estou me dedicando a linguagem Java.
+
+:outbox_tray: Objetivos 2021: Ingressar na área de tecnologia, e iniciar minha carreira.
+
+## Siga-me:
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carollinebarros)](https://github.com/carollinebarros)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-barros-965664207/)](https://www.linkedin.com/in/caroline-barros-965664207/)
+
+- Obrigada pela visita.
+
+- Aproveite o/
+
+----------------------------------------------------------------------------------
+
