@@ -1,5 +1,3 @@
-### Hi there 
-
 ----------------------------------------------------------------------------
 
 Olá 👋, seja bem-vindo(a)!  
@@ -18,7 +16,7 @@ Olá 👋, seja bem-vindo(a)!
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carollinebarros)](https://github.com/carollinebarros)[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-barros-965664207/)](https://www.linkedin.com/in/caroline-barros-965664207/)
 
-- Obrigada pela visita.
+- Obrigada pela visita! ❤️
 
 - Aproveite o/
 
