@@ -14,7 +14,7 @@ Olá 👋, seja bem-vindo(a)!
 
 ## Siga-me:
 
-(https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-barros-965664207/)](https://www.linkedin.com/in/caroline-barros-965664207/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caroline-barros-965664207/)](https://www.linkedin.com/in/caroline-barros-965664207/)
 
 ❤️ Obrigada pela visita e aproveite! ⚡🚀
 
