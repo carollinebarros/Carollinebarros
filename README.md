@@ -8,7 +8,7 @@ Olá 👋, seja bem-vindo(a)!
 
 :house_with_garden: Brasileira
 
-:books: Análise e Desenvolvimento de Sistemas, 3º período.
+:books: Cursando Análise e Desenvolvimento de Sistemas, 3º período.
 
 # Siga-me:
 
