@@ -8,7 +8,7 @@ Olá 👋, seja bem-vindo(a)!
 
 :house_with_garden: Brasileira
 
-:books: Olá, tudo bem? Agradeço por visitar meu perfil. Sou uma desenvolvedora de sistemas com mais de 2 anos de experiência, atualmente residindo em Recife - PE. Tenho uma paixão por praias, cinema, séries e jogos. Como uma autêntica sagitariana, também adoro viagens.
+:books: Olá, tudo bem? Agradeço por visitar meu perfil. Sou uma desenvolvedora de sistemas com mais de 4 anos de experiência, atualmente residindo em Recife - PE. Tenho uma paixão por praias, cinema, séries e jogos. Como uma autêntica sagitariana, também adoro viagens.
 
 Minhas habilidades incluem:
 - Backend (PL/SQL, Java)
